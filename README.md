@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://a-platform.tistory.com/">
+  <a href="https://a-platform.tistory.com/187">
     <img src="https://img.shields.io/badge/Tistory-Blog-FF5722?style=for-the-badge&logo=tistory&logoColor=white"/>
   </a>
-  <a href="https://blog.naver.com/a-platformbiz">
+  <a href="https://blog.naver.com/a-platformbiz/224110542853">
     <img src="https://img.shields.io/badge/Naver-Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
   </a>
 </p>
